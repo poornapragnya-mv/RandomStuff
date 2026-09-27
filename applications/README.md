@@ -11,8 +11,8 @@ Last updated: 27 Sep 2026. Facts come from web-search summaries of the official 
 |---|---------|--------|----------|-------------|--------------|--------|--------|
 | 1 | [ICANN89 Fellowship](https://www.icann.org/fellowshipprogram): Vancouver, 14–17 Jun 2027 | **Paid by ICANN** | Not stated (assume self-paid) | Hotel paid + up to USD 500 per diem | None | Round opens **5 Nov 2026** | Answers drafted: [icann89-fellowship.md](icann89-fellowship.md) |
 | 2 | [Internet Society Fellowship 2027](https://www.internetsociety.org/fellowship/) (10 months + USD 5,000 project grant) | Travel support to one global/regional Internet event | Not stated | Not stated | None | Pre-training by **22 Nov 2026**, application by **18 Dec 2026** | **Open now.** You must enrol in the training yourself. Draft: [isoc-fellowship-2027.md](isoc-fellowship-2027.md) |
-| 3 | [ISOC Youth Ambassadors 2027](https://www.internetsociety.org/policy-programs/youth-ambassadors/) | Trip to a major Internet event | Not stated | Not stated | None | Last year 18 Nov – 2 Dec (2 weeks) | Answers drafted: [isoc-youth-ambassadors-2027.md](isoc-youth-ambassadors-2027.md). **Age limit 18–30: please confirm your age** |
-| 4 | [IAF Emerging Space Leaders Grant](https://www.iafastro.org/activities/next-generation/emerging-space-leaders-grant-programme/) (IAC 2027) | Fully funded last cycle | Unclear | Accommodation + allowance (last cycle) | None | 2027 call not out. Last deadline was 30 Jan | Watch for call (~Nov–Dec) |
+| 3 | [ISOC Youth Ambassadors 2027](https://www.internetsociety.org/policy-programs/youth-ambassadors/) | Trip to a major Internet event | Not stated | Not stated | None | Last year 18 Nov – 2 Dec (2 weeks) | Answers drafted: [isoc-youth-ambassadors-2027.md](isoc-youth-ambassadors-2027.md). Age OK: you'll be 28 during the window |
+| 4 | [IAF Emerging Space Leaders Grant](https://www.iafastro.org/activities/next-generation/emerging-space-leaders-grant-programme/) (IAC 2027) | Fully funded last cycle | Unclear | Accommodation + allowance (last cycle) | None | 2027 call not out. Last deadline was 30 Jan | Age OK (21–35). Watch for call (~Nov–Dec) |
 
 ## Ruled out
 

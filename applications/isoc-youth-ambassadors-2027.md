@@ -6,7 +6,7 @@
 - **What you get:** a funded trip to a major Internet governance event matched to you. The exact coverage isn't listed, so confirm it when the call opens.
 - **Fee:** none
 
-> ⚠️ **Blocker:** I don't know your date of birth. If you'll be over 30 when the call opens, skip this program.
+> ✅ Age: born 8 Nov 1998, so you'll be 28 during the expected Nov–Dec 2026 window. Eligible.
 > ⚠️ The weekly calls fall late in the evening Tokyo time. Check that works alongside your job.
 
 ## Why do you want to be a Youth Ambassador? (~180 words)
@@ -34,6 +34,5 @@ You haven't told me about any volunteering, so this answer is deliberately hones
 - Represent young technologists from Asia-Pacific honestly at the matched event, and report back to the cohort.
 
 ## Before submitting
-- [ ] Confirm you're 30 or younger on the application date
 - [ ] Confirm you can commit 4 hours a week and make the evening calls
 - [ ] You submit during the window
